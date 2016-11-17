@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4be634a45186ae54d92b0cf23c858432
+timeCreated: 1455467019
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cubes: {instanceID: 0}
+  - BluePow: {fileID: 119798, guid: 36a98dad6ba9b444ca203b1fe0abb582, type: 2}
+  - CyanPow: {fileID: 135670, guid: f70262ee80af3e241a6b79d4d84d7bb0, type: 2}
+  - GreenPow: {fileID: 135534, guid: d80af2b22b2a21c44a6749162791db8b, type: 2}
+  - PurplePow: {fileID: 173192, guid: 7c36399a4a009d5499dedd10b9a04a22, type: 2}
+  - RedPow: {fileID: 115478, guid: 8cfad416c8272c24ca36f04305f5e56b, type: 2}
+  - YellowPow: {fileID: 157004, guid: 50cd2ec91fab418489f0de873e1507d5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
